@@ -1,0 +1,36 @@
+
+#body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: blueviolet;
+}
+
+#container {
+    width: 100%;
+    font-size: 1rem;
+
+
+}
+
+#row {
+    width: 500px;
+    height: 400px;
+    margin: 10% auto;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+}
+
+#row #formulario #col button{
+    width: 200px;
+}
+
+/*PAGINA DE TELA DE CADASTRO*/
+#formulario-cadastro {
+    padding: 10px;
+}
+#formulario-cadastro label{
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: 10px;
+}
