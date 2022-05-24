@@ -1,0 +1,233 @@
+/* DEVICES min-width: 375px*/
+@media(min-width: 280px){
+    #container {
+        width: 100%;
+        font-size: 1rem;
+    }
+    #row {
+        width: 250px;
+        height: 500px;
+        box-sizing: border-box;
+        margin: 10% auto;
+        padding: 1rem;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 10px;
+        margin-top: 20%;
+    }
+    #row #formulario #col button{
+        width: 100%;
+    }
+}
+/* DEVICES min-width: 375px*/
+@media(min-width: 375px){
+    #container {
+        width: 100%;
+        font-size: 1rem;
+    }
+    #row {
+        width: 350px;
+        height: 500px;
+        box-sizing: border-box;
+        margin: 10% auto;
+        padding: 1rem;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 10px;
+        margin-top: 20%;
+    }
+    #row #formulario #col button{
+        width: 150px;
+    }
+}
+/* DEVICES min-width:360px*/
+@media(min-width: 360px){
+    #container {
+        width: 100%;
+        font-size: 1rem;
+    }
+    #row {
+        width: 330px;
+        height: 500px;
+        box-sizing: border-box;
+        margin: 10% auto;
+        padding: 1rem;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 10px;
+        margin-top: 28%;
+    }
+    #row #formulario #col button{
+        width: 150px;
+    }
+}
+/* DEVICES min-width: 412px*/
+@media(min-width: 412px){
+    #container {
+        width: 100%;
+        font-size: 1rem;
+    }
+    #row {
+        width: 380px;
+        height: 500px;
+        box-sizing: border-box;
+        margin: 10% auto;
+        padding: 1rem;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 10px;
+        margin-top: 40%;
+    }
+    #row #formulario #col button{
+        width: 150px;
+    }
+}
+/* DEVICES min-width: 414px*/
+@media(min-width: 414px){
+    #container {
+        width: 100%;
+        font-size: 1rem;
+    }
+    #row {
+        width: 350px;
+        height: 500px;
+        box-sizing: border-box;
+        margin: 10% auto;
+        padding: 1rem;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 10px;
+        margin-top: 40%;
+    }
+    #row #formulario #col button{
+        width: 150px;
+    }
+}
+/* DEVICES min-width: 414px*/
+@media(min-width: 414px){
+    #container {
+        width: 100%;
+        font-size: 1rem;
+    }
+    #row {
+        width: 350px;
+        height: 500px;
+        box-sizing: border-box;
+        margin: 10% auto;
+        padding: 1rem;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 10px;
+        margin-top: 40%;
+    }
+    #row #formulario #col button{
+        width: 150px;
+    }
+}
+/* DEVICES min-width: 540px*/
+@media(min-width: 540px){
+    #container {
+        width: 100%;
+        font-size: 1rem;
+    }
+    #row {
+        width: 350px;
+        height: 500px;
+        box-sizing: border-box;
+        margin: 10% auto;
+        padding: 1rem;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 10px;
+        margin-top: 20%;
+    }
+    #row #formulario #col button{
+        width: 150px;
+    }
+}
+/* DEVICES min-width: 768px*/
+@media(min-width: 768px){
+    #container {
+        width: 100%;
+        font-size: 1rem;
+    }
+    #col{
+        margin-top: 30%;
+    }
+    #row {
+        width: 500px;
+        height: 500px;
+        box-sizing: border-box;
+        margin: 10% auto;
+        padding: 1rem;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 10px;
+        margin-top: 30%;
+    }
+    #row #formulario #col button{
+        width: 150px;
+    }
+    #formulario-cadastro {
+        padding: 10px;
+    }
+    #formulario-cadastro label{
+        font-size: 1rem;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+}
+/* DEVICES min-width: 820px*/
+@media(min-width: 820px){
+    #container {
+        width: 100%;
+        font-size: 1rem;
+    }
+    #col{
+        margin-top: 30%;
+    }
+    #row {
+        width: 800px;
+        height: 700px;
+        box-sizing: border-box;
+        margin: 10% auto;
+        padding: 1rem;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 10px;
+        margin-top: 30%;
+    }
+    #row #formulario #col button{
+        width: 150px;
+    }
+    #formulario-cadastro {
+        padding: 10px;
+    }
+    #formulario-cadastro label{
+        font-size: 1rem;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+}
+/* DEVICES min-width: 1024px*/
+@media(min-width: 1024px){
+    #container {
+        width: 100%;
+        font-size: 1rem;
+    }
+    #col{
+        margin-top: 30%;
+    }
+    #row {
+        width: 400px;
+        height: 500px;
+        box-sizing: border-box;
+        margin: 10% auto;
+        padding: 1rem;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 10px;
+    }
+    #row #formulario #col button{
+        width: 150px;
+    }
+    #formulario-cadastro {
+        padding: 10px;
+    }
+    #formulario-cadastro label{
+        font-size: 1rem;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+}
+
